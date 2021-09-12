@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/tmp.5NgQkQILBO/main.cpp
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+sys/select.h
+-
+sys/time.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+sys/epoll.h
+-
+errno.h
+-
+cstring
+-
+iostream
+-
+fcntl.h
+-
+
