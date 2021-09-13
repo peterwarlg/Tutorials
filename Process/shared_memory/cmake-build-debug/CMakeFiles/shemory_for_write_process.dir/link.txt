@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/shemory_for_write_process.dir/shm_read.cpp.o  -o shemory_for_write_process 

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/tmp.GCzzN1G1R0/shm_data_struct.h
+
+/tmp/tmp.GCzzN1G1R0/shm_read.cpp
+iostream
+-
+sys/types.h
+-
+sys/ipc.h
+-
+sys/shm.h
+-
+vector
+-
+unistd.h
+-
+cstring
+-
+shm_data_struct.h
+/tmp/tmp.GCzzN1G1R0/shm_data_struct.h
+

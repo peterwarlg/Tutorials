@@ -1,0 +1,4 @@
+/tmp/tmp.GCzzN1G1R0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/tmp/tmp.GCzzN1G1R0/cmake-build-debug/CMakeFiles/shm_write.dir
+/tmp/tmp.GCzzN1G1R0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/tmp/tmp.GCzzN1G1R0/cmake-build-debug/CMakeFiles/shm_read.dir

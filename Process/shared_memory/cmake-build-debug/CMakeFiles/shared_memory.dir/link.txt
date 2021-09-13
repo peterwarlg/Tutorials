@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/shared_memory.dir/shared_memory_for_write_process.cpp.o CMakeFiles/shared_memory.dir/shared_memory_for_read_process.cpp.o  -o shared_memory 

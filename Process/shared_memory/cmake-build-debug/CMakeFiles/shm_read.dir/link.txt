@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/shm_read.dir/shm_read.cpp.o  -o shm_read 
